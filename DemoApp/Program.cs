@@ -13,6 +13,9 @@ namespace DemoApp
             Console.WriteLine("Welcome to git");
             Console.WriteLine("Enter Name");
             string name = Console.ReadLine();
+            Console.WriteLine("Enter location");
+            string loc = Console.ReadLine();
+            Console.WriteLine($"{name}    {loc}");
             Console.Read();
         }
     }
