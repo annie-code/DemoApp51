@@ -1,0 +1,7 @@
+F:\ContentDevelopment\IIHT\CTS\DN-20\DN51\DemoApp\DemoApp\bin\Debug\DemoApp.exe.config
+F:\ContentDevelopment\IIHT\CTS\DN-20\DN51\DemoApp\DemoApp\bin\Debug\DemoApp.exe
+F:\ContentDevelopment\IIHT\CTS\DN-20\DN51\DemoApp\DemoApp\bin\Debug\DemoApp.pdb
+F:\ContentDevelopment\IIHT\CTS\DN-20\DN51\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.AssemblyReference.cache
+F:\ContentDevelopment\IIHT\CTS\DN-20\DN51\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.CoreCompileInputs.cache
+F:\ContentDevelopment\IIHT\CTS\DN-20\DN51\DemoApp\DemoApp\obj\Debug\DemoApp.exe
+F:\ContentDevelopment\IIHT\CTS\DN-20\DN51\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
