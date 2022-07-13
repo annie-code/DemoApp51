@@ -11,6 +11,8 @@ namespace DemoApp
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to git");
+            Console.WriteLine("Enter Name");
+            string name = Console.ReadLine();
             Console.Read();
         }
     }
